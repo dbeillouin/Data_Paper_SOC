@@ -21,3 +21,20 @@ Damien Beillouin1,2*, Julien Demenois3,4, Rémi Cardinael4,5,6, David Berre4,7,8
 13.	CIRAD, UPR Recyclage et Risque, Montpellier, France
 14.	Recyclage et Risque, Univ Montpellier, CIRAD, Montpellier, France
 
+
+The Data are available here:
+https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8
+
+The codes allows to reproduce the Figure of the DataPaper
+
+3 Files are présented:
+
+1. Maps.R. To map the spatial distribution of the original studies. 
+   -> Correspond to the Figure 5 of the DataPaper
+2. MA_per_int_and_LU.R To plot the number of meta-analyses and effect sizes per intervention and Land-use. 
+  -> Correspond to the Figure 2 of the DataPaper
+3. All_Cat_effect_sizes.R. to plot the number of effect sizes for each categories of outcomes
+  -> Correspond to the Figure 4 of the DataPaper
+
+
+

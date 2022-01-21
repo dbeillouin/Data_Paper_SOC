@@ -1,0 +1,49 @@
+﻿int;outcome;LU;MA;ES;Data;ORDER
+global changes;all;all;33;1840;55431;3
+global changes;C;all;0;450;14420;3
+global changes;all;Cropland;11;51;722;3
+global changes;C;Cropland;0;14;221;3
+global changes;all;Forest land;19;239;3551;3
+global changes;C;Forest land;0;61;970;3
+global changes;all;Grassland;15;155;2223;3
+global changes;C;Grassland;0;37;526;3
+global changes;all;Wetlands;7;52;208;3
+global changes;C;Wetlands;0;61;236;3
+global changes;all;Other land;36;1828;63438;3
+global changes;C;Other land;0;619;24827;3
+land use change;all;all;39;1525;44503;2
+land use change;C;all;0;1001;31861;2
+land use change;all;Cropland;24;1061;26224;2
+land use change;C;Cropland;0;736;18820;2
+land use change;all;Forest land;36;1267;34292;2
+land use change;C;Forest land;0;729;23094;2
+land use change;all;Grassland;33;717;16045;2
+land use change;C;Grassland;0;451;11771;2
+land use change;all;Wetlands;3;53;2213;2
+land use change;C;Wetlands;0;49;2165;2
+land use change;all;Other land;27;726;28746;2
+land use change;C;Other land;0;441;19636;2
+management;all;Wetlands;6;64;1485;1
+management;C;Wetlands;0;86;2151;1
+management;C;Other land;0;195;11286;1
+management;C;Grassland;0;283;12932;1
+management;C;Forest land;0;522;16378;1
+management;all;Other land;18;546;27791;1
+management;all;Forest land;42;1144;30704;1
+management;all;Grassland;36;1057;43620;1
+management;C;Cropland;0;3014;203477;1
+management;C;all;0;3487;207185;1
+management;all;all;163;8840;546450;1
+management;all;Cropland;126;8300;576254;1
+Other;all;all;19;458;12896;4
+Other;C;all;0;238;7279;4
+Other;all;Cropland;1;1;22;4
+Other;C;Cropland;0;0;0;4
+Other;all;Forest land;4;127;5936;4
+Other;C;Forest land;0;40;2552;4
+Other;all;Grassland;0;0;0;4
+Other;C;Grassland;0;0;0;4
+Other;all;Wetlands;0;0;0;4
+Other;C;Wetlands;0;0;0;4
+Other;all;Other land;17;507;12611;4
+Other;C;Other land;0;773;19418;4
