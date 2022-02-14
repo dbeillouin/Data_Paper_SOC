@@ -6,7 +6,6 @@
 
 #### I/ Initialisation ####
 
-
 #### library load ####
 
 library(magrittr)    # For the pipes
@@ -58,6 +57,7 @@ PS         <- data.frame(DOI = rep(PS$DOI, sapply(s, length)),
                       Country = rep(PS$Country, sapply(s, length)),
                       region = unlist(s))
 PS$region <-base::trimws(PS$region)
+
 
 
 ###II/ Create the maps #####
@@ -184,7 +184,8 @@ Brazil$FREQ<- (Brazil$Unique_Elements/ sum(Brazil$Unique_Elements))*100
 
 # Load the map and join the files
 states            <- read_state()
-states$name_state <- tolower(states$name_state)
+states <- read_state(code_state="all", year=2010)
+
 states$name_state <-stri_trans_general(states$name_state,"Latin-ASCII")
 names(Brazil)[1]<- 'name_state'
 states <-left_join(states,Brazil)

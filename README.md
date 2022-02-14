@@ -2,7 +2,7 @@
 
 Code associated with the paper. 
 
-**A global database of management, land use change and climate change effects on soil organic carbon**
+**A global database of land management, land-use change and climate change effects on soil organic carbon**
 Authors: 
 Damien Beillouin1,2*, Julien Demenois3,4, Rémi Cardinael4,5,6, David Berre4,7,8, Marc Corbeels3,9, Abigail Fallot10,11, Annie Boyer12, Frédéric Feder13,14
 
@@ -14,20 +14,19 @@ Damien Beillouin1,2*, Julien Demenois3,4, Rémi Cardinael4,5,6, David Berre4,7,8
 6.	Department of Plant Production Sciences and Technologies, University of Zimbabwe, Harare, Zimbabwe
 7.	CIRAD, UPR AIDA, Bobo-Dioulasso, Burkina Faso
 8.	CIRDES, USPAE, Bobo-Dioulasso, Burkina Faso
-9.	CIMMYT, Sustainable Intensification Program (SIP), Nairobi, Kenya
+9.	IITA, Nairobi, Kenya
 10.	CIRAD, UMR SENS, Montpellier, France
 11.	SENS, Univ Montpellier, CIRAD, Montpellier, France
 12.	CIRAD, DGDRS, DIST, F-34398 Montpellier, France
 13.	CIRAD, UPR Recyclage et Risque, Montpellier, France
 14.	Recyclage et Risque, Univ Montpellier, CIRAD, Montpellier, France
 
-
 The Data are available here:
 https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8
 
-The codes allows to reproduce the Figure of the DataPaper
+The codes allow to reproduce the figures of the DataPaper
 
-3 Files are présented:
+3 Files are presented:
 
 1. Maps.R. To map the spatial distribution of the original studies. 
    -> Correspond to the Figure 5 of the DataPaper
